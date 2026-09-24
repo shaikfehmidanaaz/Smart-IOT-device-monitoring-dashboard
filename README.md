@@ -9,7 +9,7 @@ A polished, dark-themed smart home monitoring dashboard built with HTML, CSS, an
 
 ## Live Demo
 
-https://yourusername.github.io/smart-iot-dashboard/
+ https://shaikfehmidanaaz.github.io/Smart-IOT-device-monitoring-dashboard/
 
 ## Screenshot
 
@@ -73,11 +73,11 @@ smart-iot-dashboard/
 
 ## Author
 
-Designed and developed by [Your Name](https://github.com/yourusername)
+Designed and developed by [shaik Fehmida naaz]
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://www.linkedin.com/in/yourusername
-- Email: your.email@example.com
+- GitHub: https://github.com/shaikfehmidanaaz
+- LinkedIn: https://www.linkedin.com/in/shaik-fehmida-naaz-7882353aa?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 
 ## License
 
